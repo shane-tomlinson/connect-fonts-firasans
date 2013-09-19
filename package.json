@@ -1,5 +1,5 @@
 {
-  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "name": "connect-fonts-firasans",
   "description": "Fira Sans font pack for connect-fonts",
   "keywords": ["font", "font-face", "CSS", "connect-fonts", "firasans-bold", "firasans-bolditalic", "firasans-light", "firasans-lightitalic", "firasans-medium", "firasans-mediumitalic", "firasans-regular", "firasans-regularitalic"],
