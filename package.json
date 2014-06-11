@@ -2,7 +2,7 @@
   "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "name": "connect-fonts-firasans",
   "description": "Fira Sans font pack for connect-fonts",
-  "keywords": ["font", "font-face", "CSS", "connect-fonts", "firasans-bold", "firasans-bolditalic", "firasans-light", "firasans-lightitalic", "firasans-medium", "firasans-mediumitalic", "firasans-regular", "firasans-regularitalic"],
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "firasans-bold", "firasans-bolditalic", "firasans-book", "firasans-bookitalic", "firasans-eight", "firasans-eightitalic", "firasans-extrabold", "firasans-extrabolditalic", "firasans-extralight", "firasans-extralightitalic", "firasans-four", "firasans-fouritalic", "firasans-hair", "firasans-hairitalic", "firasans-heavy", "firasans-heavyitalic", "firasans-italic", "firasans-light", "firasans-lightitalic", "firasans-medium", "firasans-mediumitalic", "firasans-regular", "firasans-semibold", "firasans-semibolditalic", "firasans-thin", "firasans-thinitalic", "firasans-two", "firasans-twoitalic", "firasans-ultra", "firasans-ultraitalic", "firasans-ultralight", "firasans-ultralightitalic"],
   "homepage": "https://github.com/shane-tomlinson/connect-fonts-firasans",
   "licenses": [
     {
@@ -18,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shane-tomlinson/connect-fonts-firasans"
+    "url": "https://github.com/shane-tomlinson/connect-fonts-firasans.git"
   },
   "bugs": {
     "url": "https://github.com/shane-tomlinson/connect-fonts-firasans/issues"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "node": ">= 0.4.7"
   },
