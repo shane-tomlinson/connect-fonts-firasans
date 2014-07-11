@@ -5,7 +5,7 @@
     units-per-em="1000"
     panose-1="2 11 2 3 5 0 0 2 0 4"
     ascent="1050"
-    descent="-500"
+    descent="-350"
     alphabetic="0" />
 <missing-glyph horiz-adv-x="1000" />
 <glyph unicode=" " glyph-name="space" horiz-adv-x="309" />
@@ -136,7 +136,7 @@
 <glyph unicode="w" glyph-name="w" horiz-adv-x="673" d="M452 0L372 512L149 0H144L75 517H79L147 4L370 517H375L455 4L666 517H670L457 0H452Z" />
 <glyph unicode="x" glyph-name="x" horiz-adv-x="425" d="M365 0H360L213 276L-7 0H-12L211 278L87 517H91L214 280L406 517H410L216 278L365 0Z" />
 <glyph unicode="y" glyph-name="y" horiz-adv-x="435" d="M160 -63T138 -96T83 -152T-2 -190V-186Q50 -171 81 -150T135 -96T188 0H185L65 517H70L188 3L438 517H442L191 0Q160 -63 138 -96Z" />
-<glyph unicode="z" glyph-name="z" horiz-adv-x="410" d="M4 4H324L323 0H-1V4L401 513H101V517H406V514L4 4Z" />
+<glyph unicode="z" glyph-name="z" horiz-adv-x="410" d="M5 4H324L323 0H-1V4L401 513H101V517H406V514L5 4Z" />
 <glyph unicode="{" glyph-name="braceleft" horiz-adv-x="326" d="M231 806T218 713L178 428Q173 391 150 371T91 349Q123 348 139 332T156 286Q156 275 155 270L115 -15Q113 -33 113 -40Q113 -108 180 -108V-111Q110 -111 110 -40Q110 -25 111 -16L151 271Q153
 281 153 287Q153 317 135 332T86 347L87 351Q122 351 145 370T174 428L214 714Q226 809 309 809V806Q231 806 218 713Z" />
 <glyph unicode="|" glyph-name="bar" horiz-adv-x="419" d="M159 -97L284 800H288L163 -97H159Z" />
