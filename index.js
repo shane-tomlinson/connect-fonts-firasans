@@ -10,16 +10,16 @@ module.exports = {
     "repourl": "https://github.com/shane-tomlinson/connect-fonts-firasans.git",
     "bugsurl": "https://github.com/shane-tomlinson/connect-fonts-firasans/issues"
   },
-  
+
   // Package author info
   "author": {
     "name": "Shane Tomlinson",
-    "emails": "shane@shanetomlinson.com,stomlinson@mozilla.com,set117@yahoo.com",
+    "emails": "shane@shanetomlinson.com",
     "urls": "https://shanetomlinson.com",
     "githubs": "https://github.com/shane-tomlinson",
     "twitter": "@shane_tomlinson"
   },
-  
+
   // package license info
   "license": {
     "name": "SIL Open Font License",
@@ -33,7 +33,7 @@ module.exports = {
   "font_common": {
     "names": "firasans-bold,firasans-bolditalic,firasans-book,firasans-bookitalic,firasans-eight,firasans-eightitalic,firasans-extrabold,firasans-extrabolditalic,firasans-extralight,firasans-extralightitalic,firasans-four,firasans-fouritalic,firasans-hair,firasans-hairitalic,firasans-heavy,firasans-heavyitalic,firasans-italic,firasans-light,firasans-lightitalic,firasans-medium,firasans-mediumitalic,firasans-regular,firasans-semibold,firasans-semibolditalic,firasans-thin,firasans-thinitalic,firasans-two,firasans-twoitalic,firasans-ultra,firasans-ultraitalic,firasans-ultralight,firasans-ultralightitalic",
     "family": "Fira Sans",
-    "copyright": "Digitized data copyright © 2012-2014, The Mozilla Foundation and Telefonica S.A.",
+    "copyright": "Digitized data copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A.",
     "trademark": "Fira Sans is a trademark of The Mozilla Corporation.",
     "manufacturer": "Carrois Corporate GbR & Edenspiekermann AG",
     "url_vendor": "http://www.carrois.com",
@@ -43,14 +43,14 @@ module.exports = {
 
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": { 
+  "locale-to-subdirs": {
   },
 
   // what font types are enabled and what are the extensions of
   // the font files.
   //
-  // valid types are embedded-opentype, woff, truetype, svg
-  "enabled-types": [ "eot", "woff", "ttf", "svg" ],
+  // valid types are embedded-opentype, woff, woff2, truetype, svg
+  "enabled-types": [ "eot", "woff", "woff2", "ttf", "svg" ],
 
   // The fonts. The name of the font must be the same as the font
   // in the fonts directory.
@@ -82,13 +82,13 @@ module.exports = {
       "firasans-eight": {
         "fontFamily": "Fira Sans",
         "fontStyle": "normal",
-        "fontWeight": "80",
+        "fontWeight": "100",
         "local": [ "Fira Sans Eight", "FiraSans-Eight" ]
       },
       "firasans-eightitalic": {
         "fontFamily": "Fira Sans",
         "fontStyle": "italic",
-        "fontWeight": "80",
+        "fontWeight": "100",
         "local": [ "Fira Sans Eight Italic", "FiraSans-EightItalic" ]
       },
       "firasans-extrabold": {
@@ -118,13 +118,13 @@ module.exports = {
       "firasans-four": {
         "fontFamily": "Fira Sans",
         "fontStyle": "normal",
-        "fontWeight": "40",
+        "fontWeight": "100",
         "local": [ "Fira Sans Four", "FiraSans-Four" ]
       },
       "firasans-fouritalic": {
         "fontFamily": "Fira Sans",
         "fontStyle": "italic",
-        "fontWeight": "40",
+        "fontWeight": "100",
         "local": [ "Fira Sans Four Italic", "FiraSans-FourItalic" ]
       },
       "firasans-hair": {
@@ -202,25 +202,25 @@ module.exports = {
       "firasans-thin": {
         "fontFamily": "Fira Sans",
         "fontStyle": "normal",
-        "fontWeight": "150",
+        "fontWeight": "100",
         "local": [ "Fira Sans Thin", "FiraSans-Thin" ]
       },
       "firasans-thinitalic": {
         "fontFamily": "Fira Sans",
         "fontStyle": "italic",
-        "fontWeight": "150",
+        "fontWeight": "100",
         "local": [ "Fira Sans Thin Italic", "FiraSans-ThinItalic" ]
       },
       "firasans-two": {
         "fontFamily": "Fira Sans",
         "fontStyle": "normal",
-        "fontWeight": "20",
+        "fontWeight": "100",
         "local": [ "Fira Sans Two", "FiraSans-Two" ]
       },
       "firasans-twoitalic": {
         "fontFamily": "Fira Sans",
         "fontStyle": "italic",
-        "fontWeight": "20",
+        "fontWeight": "100",
         "local": [ "Fira Sans Two Italic", "FiraSans-TwoItalic" ]
       },
       "firasans-ultra": {

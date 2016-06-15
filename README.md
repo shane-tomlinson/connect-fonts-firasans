@@ -84,7 +84,7 @@ Available subsets:
 ## Font Info
 Fira Sans
 
-* Copyright: Digitized data copyright © 2012-2014, The Mozilla Foundation and Telefonica S.A.
+* Copyright: Digitized data copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A.
 * Trademark: Fira Sans is a trademark of The Mozilla Corporation.
 * Designer: Carrois Corporate & Edenspiekermann AG
 * Designer URL: http://www.carrois.com 
@@ -99,8 +99,6 @@ Fira Sans
 ## Font pack author
 * Shane Tomlinson
 * shane@shanetomlinson.com
-* stomlinson@mozilla.com
-* set117@yahoo.com
 * https://shanetomlinson.com
 * https://github.com/shane-tomlinson
 * @shane_tomlinson
