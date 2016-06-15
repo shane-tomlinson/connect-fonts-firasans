@@ -50,7 +50,7 @@ module.exports = {
   // the font files.
   //
   // valid types are embedded-opentype, woff, woff2, truetype, svg
-  "enabled-types": [ "eot", "woff", "woff2", "ttf", "svg" ],
+  "enabled-types": [ "eot", "woff2", "woff", "ttf", "svg" ],
 
   // The fonts. The name of the font must be the same as the font
   // in the fonts directory.
